@@ -11,9 +11,9 @@
   </parent>
 
   <artifactId>webapp</artifactId>
-  <packaging>war</packaging>
-  <name>Webapp</name>
-  <description>Webapp.</description>
+  <packaging>jar</packaging>
+  <name>hello</name>
+  <description>hello.</description>
 
   <build>
     <finalName>${project.artifactId}</finalName>
